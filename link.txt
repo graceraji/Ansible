@@ -1,0 +1,2 @@
+--Ansible Install on Ubuntu
+https://dev.to/aws-builders/installing-ansible-on-aws-ec2-instance-fj9
